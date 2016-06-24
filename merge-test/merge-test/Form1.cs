@@ -18,5 +18,6 @@ namespace merge_test
             //test
             //This is branch-A - 1
         }
+        // My new changes in Branch A 
     }
 }
