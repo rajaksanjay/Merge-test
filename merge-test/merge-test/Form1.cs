@@ -19,5 +19,6 @@ namespace merge_test
             //This is branch-A - 1
             //Testing commit
         }
+        // My new changes in Branch A 
     }
 }
