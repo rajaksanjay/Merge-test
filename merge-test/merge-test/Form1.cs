@@ -19,5 +19,9 @@ namespace merge_test
             //This is branch-A - 1
             //Testing commit
         }
+        public string new_funcforAPIK_96()
+            {
+            return "st";
+            }
     }
 }
