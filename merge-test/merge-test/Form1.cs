@@ -23,5 +23,9 @@ namespace merge_test
         {
             return 0;
         }
+        public string new_funcforAPIK_96()
+            {
+            return "st";
+            }
     }
 }
