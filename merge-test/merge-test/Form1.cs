@@ -26,6 +26,8 @@ namespace merge_test
         public string new_funcforAPIK_96()
             {
             return "st";
+            //new changes in this function from master
             }
+
     }
 }
