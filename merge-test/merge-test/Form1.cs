@@ -16,7 +16,7 @@ namespace merge_test
         {
             InitializeComponent();
             //test
-            
+            //This is branch-A
         }
     }
 }
